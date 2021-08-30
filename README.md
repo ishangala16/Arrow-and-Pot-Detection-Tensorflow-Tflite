@@ -30,9 +30,12 @@ Arrow Detection &amp; Pot Detection Project
 
 ## Sample Output
 * Arrow Detection
+ 
 ![alt-text](https://github.com/ishangala16/arrow-and-pot-detection-tensorflow-tflite-android/blob/main/arrow_detection.png)
 * Pot Detection
+
 ![alt-text](https://github.com/ishangala16/arrow-and-pot-detection-tensorflow-tflite-android/blob/main/pot_detection.png)
 * Arrow Detection in Black & White
+
 ![alt-text](https://github.com/ishangala16/arrow-and-pot-detection-tensorflow-tflite-android/blob/main/bw_arrow_detection.png)
 
