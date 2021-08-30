@@ -1,5 +1,14 @@
 # Arrow and pot detection tensorflow tflite android
-Arrow Detection &amp; Pot Detection Project
+Arrow Detection &amp; Pot Detection Project. 
+
+My goal was to:
+1) Detect Arrows
+2) Determine Arrow's Orientation
+3) Detect Pots
+
+And eventually build an android app for these detections
+
+In this project arrow detectection takes place based on the head & tail of the arrow (This allows to determine the orientation of the arrow as well).  
 
 ## Environment Requirements:
 
