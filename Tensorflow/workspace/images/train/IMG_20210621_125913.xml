@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New Arrow Images</folder>
+	<filename>IMG_20210621_125913.jpg</filename>
+	<path>C:\Users\Ishan\Downloads\Arrow Images\New Arrow Images\IMG_20210621_125913.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>269</ymin>
+			<xmax>376</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>185</ymin>
+			<xmax>526</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

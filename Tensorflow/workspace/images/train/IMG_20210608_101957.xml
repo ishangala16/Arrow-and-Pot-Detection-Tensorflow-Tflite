@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Arrow Test images</folder>
+	<filename>IMG_20210608_101957.jpg</filename>
+	<path>C:\Users\Ishan\Downloads\Arrow Images\Arrow Test images\IMG_20210608_101957.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>329</ymin>
+			<xmax>480</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>223</ymin>
+			<xmax>353</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

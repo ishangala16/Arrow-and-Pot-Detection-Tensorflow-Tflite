@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test New Arrow Images</folder>
+	<filename>IMG_20210621_130003.jpg</filename>
+	<path>C:\Users\Ishan\Downloads\Arrow Images\Test New Arrow Images\IMG_20210621_130003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>321</ymin>
+			<xmax>407</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>
