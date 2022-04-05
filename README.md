@@ -1,4 +1,4 @@
-# Arrow and pot detection tensorflow tflite android
+# Arrow and pot detection tensorflow tflite 
 Arrow Detection &amp; Pot Detection Project. 
 
 My goal was to:
